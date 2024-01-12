@@ -1,4 +1,4 @@
-# Machine Learning Tips and Tricks
+# Tips and Tricks
 
 This repository aims to provide tips and tricks related to Artificial Intelligence, Machine Learning and Deep Learning.
 [[_TOC_]]
