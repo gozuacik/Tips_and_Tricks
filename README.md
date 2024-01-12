@@ -4,6 +4,14 @@ This repository aims to provide tips and tricks related to Artificial Intelligen
 [[_TOC_]]
 
 # FAQ
+## How can I generate word cloud with Python?
+- You can use [word_cloud](https://pypi.org/project/wordcloud/) Python package.
+- After installing above package, put your text into a file such as **"mytext.txt"**
+- Run following command:
+```bash
+wordcloud_cli --text mytext.txt --imagefile wordcloud.png
+```
+
 ## How can I use VOSviewer tool to visualize text data in a simple way?
 Let's assume that you have a text dataset in Excel file (xlsx). Normally VOSviewer expects a CSV form regarding a dataset from SCOPUS database.
 Within this workaround, you are going to provide your text dataset like it is an output from SCOPUS database.
