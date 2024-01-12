@@ -1,6 +1,6 @@
 # Tips and Tricks
 
-This repository aims to provide tips and tricks related to Artificial Intelligence, Machine Learning and Deep Learning.
+This repository aims to provide tips and tricks related to Artificial Intelligence, Machine Learning, Deep Learning, Python.
 [[_TOC_]]
 
 # FAQ
