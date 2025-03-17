@@ -63,3 +63,9 @@ For that purpose, please apply following steps:
 - Choose number of keywords.
 - Finish.
 - If everything is fine, you will have a visualization screen.
+
+## How can I install Ubuntu as VM with VirtualBox?
+- You can have a look at following [video](https://www.youtube.com/watch?v=XIWQv-sTB3c&t=104s)
+
+## How can I enable Copy & Paste between Ubuntu VM and Windows?
+- You can have a look at following [video](https://www.youtube.com/watch?v=saiy4_XsLoA&t=103s)
