@@ -72,3 +72,7 @@ For that purpose, please apply following steps:
 
 ## How can I enlarge/increase a Virtual Machine's Disk in VirtualBox?
 - You can have a look at following [page](https://www.howtogeek.com/124622/how-to-enlarge-a-virtual-machines-disk-in-virtualbox-or-vmware/#:~:text=In%20VirtualBox%2C%20go%20to%20File,chance%20something%20can%20go%20wrong.)
+
+## How can I create free space regarding pruned docker images?
+- docker system prune -a --volumes
+
